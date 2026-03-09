@@ -1,5 +1,7 @@
 # 欢迎来到 tnotesjs
 
+TNotes 是一个基于 vitepress 搭建的开源知识库管理工具。
+
 |知识库|简介|
 |-|-|
 |[TNotes](https://tnotesjs.github.io/TNotes) | TNotes 的根知识库，集成所有子库目录信息，提供知识库快速导航功能。 |
