@@ -1,6 +1,6 @@
 # 欢迎来到 tnotesjs
 
-[TNotes][] 是一个基于 [vitepress][] 搭建的开源知识库管理工具，创建于 `2024.08.28`，截止目前 `2026` 已维护一年多时间，希望分享的内容对你有所帮助！
+[TNotes][] 是一个基于 [vitepress][] 搭建的开源知识库管理工具，创建于 `2024.08.28`，截止目前 `2026` 已维护一年多时间，笔记管理的核心逻辑封装在了 NPM 包 [@tnotesjs/core][] 中，希望分享的内容对你有所帮助！
 
 | 知识库 | 简介 |
 | --- | --- |
@@ -75,3 +75,4 @@
 <!-- others link -->
 
 [vitepress]: https://vitepress.dev/
+[@tnotesjs/core]: https://github.com/tnotesjs/core
